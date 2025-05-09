@@ -25,7 +25,7 @@ Una aplicación de redes sociales moderna construida con Next.js 14, TypeScript,
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/social-media-app.git
+git clone https://github.com/arklon1975/social-media-app.git
 cd social-media-app
 ```
 
